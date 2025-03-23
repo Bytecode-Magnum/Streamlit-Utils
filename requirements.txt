@@ -1,0 +1,11 @@
+polars
+pandas
+numpy
+python-dotenv
+fastexcel
+openpyxl
+psycopg2
+virtualenv
+PyInstaller
+cx_freeze
+requests
